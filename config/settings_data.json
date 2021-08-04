@@ -23,8 +23,9 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo_width": 100,
-          "logo_position": "top-center",
+          "logo": "shopify:\/\/shop_images\/STW_LOGO_500PX.gif",
+          "logo_width": 250,
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
